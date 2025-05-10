@@ -4,7 +4,7 @@ This project is a **Database Application** where users can perform their transpo
 
 ---
 
-## 📌 Features
+##  Features
 
 - **User Registration and Authentication**
 - **Card Type Selection (Student, Full, Teacher etc.)**
@@ -15,7 +15,7 @@ This project is a **Database Application** where users can perform their transpo
 
 ---
 
-## 🗂Database Structure
+## Database Structure
 
 Basic tables used in the project:
 
@@ -26,5 +26,5 @@ Basic tables used in the project:
 - `islem_log` → Transaction history
 - `user_balance_view` → User balance view
 
-### 📌 ER Diagram
+### ER Diagram
 *(The ER diagram of the project is available in the “18_Rapor” folder.)*
