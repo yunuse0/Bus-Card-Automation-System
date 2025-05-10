@@ -6,8 +6,7 @@ This project is a **Database Application** where users can perform their transpo
 
 ##  Features
 
-- **User Registration and Authentication**
-- **Card Type Selection (Student, Full, Teacher etc.)**
+- **Card Type Selection (Student, Full, Free etc.)**
 - **Application and Status Tracking**
 - **Balance Inquiry and Loading Transactions**
 - **Transaction History Logging**
