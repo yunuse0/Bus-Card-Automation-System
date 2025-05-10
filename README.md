@@ -1,4 +1,4 @@
-# City Card Management System
+# Bus-Card-Automation-System
 
 This project is a **Database Application** where users can perform their transportation card transactions digitally. Users can apply for a card, load their balance, and view their past transactions through the system. The system is designed to work integrated with the transportation infrastructure.
 
