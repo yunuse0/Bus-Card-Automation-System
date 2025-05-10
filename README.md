@@ -1,4 +1,4 @@
-# 🚌 City Card Management System
+# City Card Management System
 
 This project is a **Database Application** where users can perform their transportation card transactions digitally. Users can apply for a card, load their balance, and view their past transactions through the system. The system is designed to work integrated with the transportation infrastructure.
 
@@ -6,16 +6,16 @@ This project is a **Database Application** where users can perform their transpo
 
 ## 📌 Features
 
-- 🧑‍💼 **User Registration and Authentication**
-- 💳 **Card Type Selection (Student, Full, Teacher etc.)**
-- 🧾 **Application and Status Tracking**
-- 💰 **Balance Inquiry and Loading Transactions**
-- 📄 **Transaction History Logging**
-- 📊 **Database Triggers (Trigger), Views (View), Indexes (Index)**
+- **User Registration and Authentication**
+- **Card Type Selection (Student, Full, Teacher etc.)**
+- **Application and Status Tracking**
+- **Balance Inquiry and Loading Transactions**
+- **Transaction History Logging**
+- **Database Triggers (Trigger), Views (View), Indexes (Index)**
 
 ---
 
-## 🗂️ Database Structure
+## 🗂Database Structure
 
 Basic tables used in the project:
 
